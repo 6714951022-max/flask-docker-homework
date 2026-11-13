@@ -7,3 +7,8 @@
 2026-11-13 06:16:05,645 - 172.22.0.1 - - [13/Nov/2026 06:16:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2026-11-13 06:16:44,116 - Received message: good buy
 2026-11-13 06:16:44,120 - 172.22.0.1 - - [13/Nov/2026 06:16:44] "POST /submit HTTP/1.1" 200 -
+2026-11-13 06:41:05,410 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.22.0.2:5000
+2026-11-13 06:41:05,411 - [33mPress CTRL+C to quit[0m
